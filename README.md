@@ -52,6 +52,8 @@
   </tr>
 </table>
   
+  ![PHP](https://img.shields.io/badge/-Powershell-05122A?style=flat&logo=php)&nbsp;
+  
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>

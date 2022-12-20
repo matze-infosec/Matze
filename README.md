@@ -2,6 +2,8 @@
 
 <div allign=center>
 
+<p align="center"><br/>
+
 <h2 align="center"> Matze | SOC Analyst </h2>
 
 <p align="center"><br/>
@@ -15,6 +17,8 @@
 <p align="center"><br/>
 
 # Skills:
+
+<p align="center"><br/>
 
 <table>
   <tr>
@@ -45,4 +49,5 @@
       </a>
       <br>PowerShell
     </td>
+  </tr>
 </table>

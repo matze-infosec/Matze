@@ -2,7 +2,7 @@
 
 <div allign=center>
 
-# Matze
+<h2 align="center">Matze</h2>
 
 <p align="center"><br/>
 

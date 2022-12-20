@@ -51,3 +51,8 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://github.com/matze-infosec/Matze/blob/main/Assets/AD.png" alt="AD" style="vertical-align:top; margin:4px">    
+</p>

@@ -1,4 +1,4 @@
-![banner](https://github.com/matze-infosec/Matze/blob/main/Assets/Banner.png)
+![banner](https://github.com/matze-infosec/matze-infosec/blob/main/Assets/Images/Banner.png)
 
 <div allign=center>
 

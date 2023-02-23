@@ -8,7 +8,7 @@
 
 <p align="center"><br/>
 
-<h3 align="center"> 🖥️ I am a Blue Team Hacker 🖥️ </h3>
+<h3 align="center"> 🖥️ I am a Purple Team Hacker 🖥️ </h3>
   
 <h3 align="center"> 🌐 Yes, I can see everything on the network 🌐
 
